@@ -118,4 +118,3 @@ Start the GraphQL server:
 
 
 Setup cited from [ResVault](https://blog.resilientdb.com/2023/09/21/ResVault.html#prerequisites)
-.
